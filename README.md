@@ -3,8 +3,7 @@
 
 
 # 50 Days Of Code - Log
-I'm publicly committing to the 50DaysOfCode Challenge starting today! (A little adaptation of the great #100DaysOfCode challenge) 
-This repository is to keep track of the work done during each day of the challenge.  [#50DaysOfCode](https://www.100daysofcode.com/)
+I'm publicly committing to the 50DaysOfCode Challenge starting today! This repository is to keep track of the work done during each day of the challenge.  [#50DaysOfCode](https://www.100daysofcode.com/)
 #
 
 
