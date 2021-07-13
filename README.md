@@ -12,6 +12,33 @@ I'm publicly committing to the 50DaysOfCode Challenge starting today! This repos
 
 
 
+## Day 06: June 14, 2021
+
+- **Today's Progress**: First Experiment on [Arduino IoT Cloud](https://create.arduino.cc/iot). Configured a dashboard to showcase readings.
+- **Thoughts:** Temp-Humidity Monitoring System using NodeMCU + DHT22 Module
+
+## Day 05: June 13, 2021
+
+- **Today's Progress**: Back to DevOps - Deployed a Node.js App using AWS Elastic Beanstalk
+- **Thoughts:** AWS Elastic Beanstalk + AWS Codepipeline + GitHub. Planning to write a blog/article regarding the same.
+
+## Day 04: June 11, 2021
+
+- **Today's Progress**: Something using Dual-Axis Joystick Module - Multiple Experiments
+- **Thoughts:** Joystick Module -> Serial Monitor, LEDs + Buzzer, MG995 Servo Motor
+
+## Day 03: June 07, 2021
+
+- **Today's Progress**: Messing around with RFIDs (DumpInfo - Failed Miserably) & KY-039 Heart Beat Sensor Module
+- **Thoughts:** Hardware is always fun. But if you cant find a solution to a hurdle, it'll be worst.
+- **Link to Tweet:** [Error Report](https://twitter.com/Decoded_Cipher/status/1412501288609214465)
+
+## Day 02: June 03, 2021
+
+- **Today's Progress**: Solving Python problems on [HackerRank](https://www.hackerrank.com).
+- **Thoughts:** Earned my first Badge on HackerRank. HackerRank is way cooler.
+- **Link to Profile:** [HackerRank](https://www.hackerrank.com/decodedcipher)
+
 ## Day 01: June 01, 2021
 
 - **Today's Progress**: Completed the Certificate Validator for [Inovus Labs IEDC](https://inovus-labs.web.app).
