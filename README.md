@@ -11,6 +11,17 @@ I'm publicly committing to the 50DaysOfCode Challenge starting today! This repos
 
 
 
+## Day 08: Aug 05, 2021
+
+- **Today's Progress**: Completed the Week-1 of Kerala IoT Challenge Level-1 experiments. 
+- **Thoughts:** Created a GitHub Repo to keep track of my experiments at the challenge. Curated a log of 3 Basic Experiments.
+- **Link to GitHub Page:** [My Kerala IoT Challenge](https://decoded-cipher.github.io/Kerala-IoT-Challenge/)
+
+## Day 07: July 29, 2021
+
+- **Today's Progress**: Just earned the Bronze Badge for 10 Days of JS on HackerRank!
+- **Thoughts:** Trying to get back on track, from the world of designs to code & self-learn.
+- **Link to HackerRank Profile:** [My HackerRank Profile](https://www.hackerrank.com/decodedcipher)
 
 ## Day 06: June 14, 2021
 
