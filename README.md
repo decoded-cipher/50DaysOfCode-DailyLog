@@ -11,6 +11,12 @@ I'm publicly committing to the 50DaysOfCode Challenge starting today! This repos
 
 
 
+## Day 09: Aug 06, 2021
+
+- **Today's Progress**: Started working on the **Birthday Wish** feature of Inovus Labs Discord Bot.
+- **Thoughts:** Created 3 templete in Figma. Generates Birthday Wish posts dynamically using HTML Canvas
+- **Link to Repo:** [Chacko Mash](https://github.com/decoded-cipher/chacko-mash)
+
 ## Day 08: Aug 05, 2021
 
 - **Today's Progress**: Completed the Week-1 of Kerala IoT Challenge Level-1 experiments. 
